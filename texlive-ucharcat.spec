@@ -1,6 +1,6 @@
 Name:		texlive-ucharcat
 Version:	38907
-Release:	1
+Release:	2
 Summary:	Implementation of the (new in 2015) XeTeX \Ucharcat command in lua, for LuaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ucharcat
