@@ -3,7 +3,7 @@ Version:	38907
 Release:	2
 Summary:	Implementation of the (new in 2015) XeTeX \Ucharcat command in lua, for LuaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ucharcat
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ucharcat
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ucharcat.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ucharcat.doc.r%{version}.tar.xz
